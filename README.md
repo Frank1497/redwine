@@ -9,6 +9,7 @@ Libraries Used:
 5. Matplotlib
 6. Flask
 7. Pickle
+8. Streamlit
 
 Goal:
 Using the redwine dataset the main goal of the project is to make an end to end machine learning project.
