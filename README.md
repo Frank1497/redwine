@@ -8,8 +8,7 @@ Libraries Used:
 4. Seaborn
 5. Matplotlib
 6. Flask
-7. Docker
-8. Pickle
+7. Pickle
 
 Goal:
 Using the redwine dataset the main goal of the project is to make an end to end machine learning project.
